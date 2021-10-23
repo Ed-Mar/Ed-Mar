@@ -1,9 +1,7 @@
 
-210425 
+210925 
 
-  -Looking for Work in Raleigh, NC  
-  
-  -Currently Studying K8 to get a CKAD (Container are way more intresting that originally thought)
+  -Looking for Work in Raleigh, NC    
   
   -Current Postion: Team Lead for API devlopment in Insurance Field
   
