@@ -1,11 +1,11 @@
+## 211211
+- Learning Golang and Kubernetes 
+	- Looking to transition into go backend 
+- In the market  for remote US employment or Raleigh, NC 
+- Java Trained 
+- BA in CS 
+- Preivous Tech Lead and QA Lead for fortune 5 
 
-210925 
-
-  -Looking for Work in Raleigh, NC    
-  
-  -Current Postion: Team Lead for API devlopment in Insurance Field
-  
-  Intrested in: Goland and Rust Devlopment
 
   
 <!---
