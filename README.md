@@ -3,7 +3,7 @@
 	- Looking to transition into go backend 
 - In the market  for remote US employment or Raleigh, NC 
 - Java Trained 
-- BA in CS 
+- BS in CS 
 - Preivous Tech Lead and QA Lead for fortune 5 
 
 
