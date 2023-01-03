@@ -1,3 +1,4 @@
+ed-m.dev
 ## 211211
 - Learning Golang and Kubernetes 
 	- Looking to transition into go backend 
